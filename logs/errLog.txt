@@ -1,0 +1,1 @@
+20221018	14:25:34	262f7891-a461-4487-bd3d-c953ae68d0f4	TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
